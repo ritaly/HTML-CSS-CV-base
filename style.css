@@ -1,0 +1,54 @@
+/*@import url('https://fonts.googleapis.com/css?family=Raleway');*/
+
+body {
+	margin: 0;
+}
+
+header, main, footer {
+	margin: 0 auto;
+}
+
+article, section{
+	margin: 1em;
+	padding: 1em;
+}
+
+header {
+	padding: 2em;
+	text-align: center;
+	/*background-image: url('sciezka');*/
+}
+
+header section {
+	margin: 0 auto;
+}
+
+header img {
+
+}
+
+h1 {
+	margin: 1em;
+	text-transform: ;
+}
+
+main {
+	max-width: 1140px;
+}
+
+.course {
+}
+
+.course .title {
+}
+
+.course .descrition {
+}
+
+.school span {
+	color: #889499;
+}
+
+footer {
+ padding: 1em;
+}
