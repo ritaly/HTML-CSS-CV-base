@@ -1,17 +1,17 @@
 # CV base
 
-Podstawa projektu do pobrania. Pełen tutorial z opisem na blogu Fly Nerd:
+Podstawa projektu do pobrania. Pełen tutorial z opisem na blogu Fly Nerd: CV w HTML / CSS
 
 ### Zakres
 
-Celem projektu jest wykorzystanie stworzenie strony www własnego CV za użyciem 2 podstawowych technologii jakimi są HTML i CSS.
+Celem projektu jest wykorzystanie stworzenie strony www własnego CV za użyciem HTML i CSS.
 
 ### Z tym tutorialem:
-- stworzysz prosty, czytelny i estetyczny layout
 - wykorzystasz znaczniki HTML5
 - ostylujesz stronę za pomocą CSS
+- stworzysz prosty, czytelny i estetyczny layout
 - wykorzystasz flexbox do tworzenia układu strony
-- Twoje CV będzie przystosowane pod urządzenia mobilne (RWD)
+- przystosujesz stronę pod urządzenia mobilne (RWD)
 
 ### Wymagania
 Do wykonania zadań konieczna jest podstawowa znajomość HTML i CSS!
