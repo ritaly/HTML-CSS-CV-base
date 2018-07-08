@@ -4,13 +4,17 @@ body {
   margin: 0;
 }
 
-header, main, footer {
-  margin: 0 auto;
+article {
+  padding:0 1em;
 }
 
-article, section{
+section{
   margin: 1em;
   padding: 1em;
+}
+
+header, main, footer {
+  margin: 0 auto;
 }
 
 header {
